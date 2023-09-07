@@ -1,0 +1,5 @@
+{{#user}} 
+Name: Rohit 
+Skills: C++, Python, DSA, HTML, CSS, JS, Jango 
+Email: rohitthakan2001@gmail.com 
+{{/user}} 
